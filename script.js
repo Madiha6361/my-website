@@ -1,0 +1,1 @@
+function showMsg(){alert('Your static website is ready for AWS S3 hosting!');}
